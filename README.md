@@ -1,1 +1,1 @@
-## LearningJS
+## Daily
